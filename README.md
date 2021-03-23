@@ -3,10 +3,12 @@
   - Coffee
   - Modular synthesis
   - Programmatic music, musique concrete, tones
+  - Using programming and scripting to find automation solutions
 - 🌱 I’m currently learning ...
   - python
   - powershell
   - bash
+  - RedHat Ansible
   - yaml, rst and other markdown/up languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
