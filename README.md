@@ -12,7 +12,8 @@
   - yaml, rst and other markdown/up languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  - Twitter, sure
+  - Twitter
+  - [Resume](https://github.com/awbored/Resume)
 
 <!---
 awbored/awbored is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
