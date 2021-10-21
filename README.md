@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - Twitter
-  - [Resume](https://github.com/awbored/Resume)
+  - [Resume](https://awbored.github.io/Resume/)
 
 <!---
 awbored/awbored is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
