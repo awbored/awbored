@@ -3,7 +3,7 @@
   - Coffee
   - Modular synthesis
   - Programmatic music, musique concrete, tones
-  - Using programming and scripting to find automation solutions
+  - Utilizing technology to find solutions for daily tasks, daily problems, and daily boredom.
 - 🌱 I’m currently learning ...
   - python
   - powershell
