@@ -12,7 +12,7 @@
   - yaml, rst and other markdown/up languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  - Twitter
+  - [Twitter](https://twitter.com/awbored)
   - [Resume](https://awbored.github.io/Resume/)
 
 <!---
