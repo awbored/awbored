@@ -8,11 +8,11 @@
   - python
   - powershell
   - bash
-  - RedHat Ansible
+  - RedHat Ansible, CyberArk, SailPoint
   - yaml, rst and other markdown/up languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  - [Twitter](https://twitter.com/awbored)
+  - [Web](https://andrewway.net)
   - [Resume](https://awbored.github.io/Resume/)
 
 <!---
