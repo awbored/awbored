@@ -8,7 +8,7 @@
   - python
   - powershell
   - bash
-  - RedHat Ansible, CyberArk, SailPoint
+  - IAM and PAM solutions
   - yaml, rst and other markdown/up languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
